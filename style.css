@@ -517,8 +517,8 @@ footer .social a:hover {
   transform: translateY(0);
 }
 
-/* Extra large devices: 1200 > */
-@media (min-width: 1200px) {
+/* Extra large devices: 993 > */
+@media (min-width: 993px) {
   .container {
     max-width: 1120px;
     margin-left: auto;
@@ -635,6 +635,3 @@ footer .social a:hover {
   }
 }
 
-/* medium devices: 767 > */
-@media (min-width: 767px) {
-}
